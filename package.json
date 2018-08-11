@@ -1,0 +1,97 @@
+{
+  "name": "focus-tax-landing-page",
+  "description": "Focus Tax Landing Page",
+  "version": "1.0.0",
+  "author": "Focus Tax <tax@focustaxsolutions.com.au>",
+  "dependencies": {
+    "@babel/core": "7.0.0-beta.51",
+    "@babel/preset-env": "7.0.0-beta.51",
+    "@babel/preset-flow": "7.0.0-beta.51",
+    "@babel/preset-react": "7.0.0-beta.51",
+    "@lingui/react": "2.1.2",
+    "aos": "2.3.1",
+    "bootstrap": "4.1.1",
+    "et-line": "1.0.1",
+    "font-awesome": "4.7.0",
+    "freshchat-widget": "1.0.4",
+    "gatsby": "1.9.273",
+    "gatsby-image": "1.0.54",
+    "gatsby-link": "1.6.45",
+    "gatsby-plugin-google-tagmanager": "1.0.19",
+    "gatsby-plugin-manifest": "1.0.27",
+    "gatsby-plugin-netlify": "1.0.21",
+    "gatsby-plugin-nprogress": "1.0.14",
+    "gatsby-plugin-offline": "1.0.18",
+    "gatsby-plugin-react-helmet": "2.0.11",
+    "gatsby-plugin-react-next": "1.0.11",
+    "gatsby-plugin-sass": "1.0.26",
+    "gatsby-plugin-sharp": "1.6.48",
+    "gatsby-plugin-sitemap": "1.2.25",
+    "gatsby-source-filesystem": "1.5.39",
+    "gatsby-transformer-sharp": "1.6.27",
+    "jquery": "3.3.1",
+    "lity": "2.3.1",
+    "lodash": "4.17.10",
+    "popper.js": "1.14.3",
+    "react": "16.4.1",
+    "react-dom": "16.4.1",
+    "react-helmet": "5.2.0",
+    "slick-carousel": "1.8.1"
+  },
+  "keywords": [
+    "sydney accounts,focus tax solutions"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "test": "eslint . --ext jsx,js && flow",
+    "extract": "BABEL_ENV=extract lingui extract --clean && i18next-conv -l de -s src/locale/de/messages.json -t src/locale/de.po"
+  },
+  "eslintConfig": {
+    "extends": [
+      "plugin:flowtype/recommended",
+      "airbnb"
+    ],
+    "plugins": [
+      "flowtype"
+    ],
+    "env": {
+      "browser": true
+    },
+    "rules": {
+      "object-curly-newline": [
+        "error",
+        {
+          "multiline": true
+        }
+      ]
+    }
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "7.0.0-beta.51",
+    "@lingui/babel-preset-react": "2.1.2",
+    "@lingui/cli": "2.1.2",
+    "babel-eslint": "8.2.3",
+    "eslint": "4.19.1",
+    "eslint-config-airbnb": "16.1.0",
+    "eslint-plugin-flowtype": "2.49.3",
+    "eslint-plugin-import": "2.12.0",
+    "eslint-plugin-jsx-a11y": "6.0.3",
+    "eslint-plugin-react": "7.9.1",
+    "flow-bin": "0.75.0",
+    "i18next-conv": "6.0.1"
+  },
+  "lingui": {
+    "fallbackLocale": "en",
+    "sourceLocale": "en",
+    "localeDir": "src/locale",
+    "srcPathDirs": [
+      "src/pages",
+      "src/components",
+      "src/layouts"
+    ],
+    "format": "minimal"
+  }
+}

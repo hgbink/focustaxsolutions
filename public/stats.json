@@ -1,0 +1,208 @@
+{
+  "assetsByChunkName": {
+    "path---about-us": [
+      "path---about-us-6ada9f553633016ea52e.js",
+      "path---about-us-6ada9f553633016ea52e.js.map"
+    ],
+    "path---all-features": [
+      "path---all-features-e56dc589c189b44dd414.js",
+      "path---all-features-e56dc589c189b44dd414.js.map"
+    ],
+    "component---src-pages-features-round-modeling-jsx": [
+      "component---src-pages-features-round-modeling-jsx-b61eb31a35bcc3198144.js",
+      "component---src-pages-features-round-modeling-jsx-b61eb31a35bcc3198144.js.map"
+    ],
+    "component---src-pages-features-esop-jsx": [
+      "component---src-pages-features-esop-jsx-bbbaf94a688bf410607d.js",
+      "component---src-pages-features-esop-jsx-bbbaf94a688bf410607d.js.map"
+    ],
+    "component---src-pages-all-features-jsx": [
+      "component---src-pages-all-features-jsx-7195fe528e675f9421f3.js",
+      "component---src-pages-all-features-jsx-7195fe528e675f9421f3.js.map"
+    ],
+    "path---cn": [
+      "path---cn-b5ab6a4c9fda6903c4b3.js",
+      "path---cn-b5ab6a4c9fda6903c4b3.js.map"
+    ],
+    "component---src-pages-pricing-jsx": [
+      "component---src-pages-pricing-jsx-d78e660fd12f4b4c4f84.js",
+      "component---src-pages-pricing-jsx-d78e660fd12f4b4c4f84.js.map"
+    ],
+    "path---cn-privacy": [
+      "path---cn-privacy-c1283a622c6b57bbf8c9.js",
+      "path---cn-privacy-c1283a622c6b57bbf8c9.js.map"
+    ],
+    "path---security": [
+      "path---security-e56dc589c189b44dd414.js",
+      "path---security-e56dc589c189b44dd414.js.map"
+    ],
+    "path---features-esop": [
+      "path---features-esop-dfa6e725777726673233.js",
+      "path---features-esop-dfa6e725777726673233.js.map"
+    ],
+    "path---features": [
+      "path---features-3cc7aa85c79b6b37abf0.js",
+      "path---features-3cc7aa85c79b6b37abf0.js.map"
+    ],
+    "component---src-pages-contact-jsx": [
+      "component---src-pages-contact-jsx-fb3ca4ef474951ed60c1.js",
+      "component---src-pages-contact-jsx-fb3ca4ef474951ed60c1.js.map"
+    ],
+    "path---cn-pricing": [
+      "path---cn-pricing-c1283a622c6b57bbf8c9.js",
+      "path---cn-pricing-c1283a622c6b57bbf8c9.js.map"
+    ],
+    "path---": [
+      "path----6621643385c044412b21.js",
+      "path----6621643385c044412b21.js.map"
+    ],
+    "path---cn-security": [
+      "path---cn-security-c1283a622c6b57bbf8c9.js",
+      "path---cn-security-c1283a622c6b57bbf8c9.js.map"
+    ],
+    "component---src-pages-features-jsx": [
+      "component---src-pages-features-jsx-d316a1308cd50906fe5d.js",
+      "component---src-pages-features-jsx-d316a1308cd50906fe5d.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-37579ea3b7e60f581c78.js",
+      "component---src-layouts-index-jsx-37579ea3b7e60f581c78.js.map"
+    ],
+    "component---src-pages-features-reporting-jsx": [
+      "component---src-pages-features-reporting-jsx-b4102062f8c0d498f6cf.js",
+      "component---src-pages-features-reporting-jsx-b4102062f8c0d498f6cf.js.map"
+    ],
+    "path---cn-features-consistency": [
+      "path---cn-features-consistency-3a9ad6124fea36d22622.js",
+      "path---cn-features-consistency-3a9ad6124fea36d22622.js.map"
+    ],
+    "path---pricing": [
+      "path---pricing-e56dc589c189b44dd414.js",
+      "path---pricing-e56dc589c189b44dd414.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-pages-security-jsx": [
+      "component---src-pages-security-jsx-e003815cc53f54c47de6.js",
+      "component---src-pages-security-jsx-e003815cc53f54c47de6.js.map"
+    ],
+    "component---src-pages-about-us-jsx": [
+      "component---src-pages-about-us-jsx-c1fc1ff86e17fdf32386.js",
+      "component---src-pages-about-us-jsx-c1fc1ff86e17fdf32386.js.map"
+    ],
+    "path---index": [
+      "path---index-6aec3fd223edd71d129b.js",
+      "path---index-6aec3fd223edd71d129b.js.map"
+    ],
+    "path---cn-features-esop": [
+      "path---cn-features-esop-a073dba37b7eae613d6b.js",
+      "path---cn-features-esop-a073dba37b7eae613d6b.js.map"
+    ],
+    "path---cn-about-us": [
+      "path---cn-about-us-abd229608b9d034146c5.js",
+      "path---cn-about-us-abd229608b9d034146c5.js.map"
+    ],
+    "path---cn-404": [
+      "path---cn-404-c1283a622c6b57bbf8c9.js",
+      "path---cn-404-c1283a622c6b57bbf8c9.js.map"
+    ],
+    "path---features-round-modeling": [
+      "path---features-round-modeling-d2829b6a3e576d3fbde2.js",
+      "path---features-round-modeling-d2829b6a3e576d3fbde2.js.map"
+    ],
+    "path---cn-404-html": [
+      "path---cn-404-html-c1283a622c6b57bbf8c9.js",
+      "path---cn-404-html-c1283a622c6b57bbf8c9.js.map"
+    ],
+    "component---src-pages-features-investors-jsx": [
+      "component---src-pages-features-investors-jsx-911005d35ac0a2a8935f.js",
+      "component---src-pages-features-investors-jsx-911005d35ac0a2a8935f.js.map"
+    ],
+    "path---privacy": [
+      "path---privacy-e56dc589c189b44dd414.js",
+      "path---privacy-e56dc589c189b44dd414.js.map"
+    ],
+    "commons": [
+      "commons-4a426cd723a532a5d738.js",
+      "commons-4a426cd723a532a5d738.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-e56dc589c189b44dd414.js",
+      "path---404-html-e56dc589c189b44dd414.js.map"
+    ],
+    "component---src-pages-privacy-jsx": [
+      "component---src-pages-privacy-jsx-d6f85d066321a2c1f0d0.js",
+      "component---src-pages-privacy-jsx-d6f85d066321a2c1f0d0.js.map"
+    ],
+    "component---src-pages-404-jsx": [
+      "component---src-pages-404-jsx-c4d04eeb81debf787840.js",
+      "component---src-pages-404-jsx-c4d04eeb81debf787840.js.map"
+    ],
+    "component---src-pages-features-consistency-jsx": [
+      "component---src-pages-features-consistency-jsx-67bc4613432333871d1c.js",
+      "component---src-pages-features-consistency-jsx-67bc4613432333871d1c.js.map"
+    ],
+    "path---contact": [
+      "path---contact-e56dc589c189b44dd414.js",
+      "path---contact-e56dc589c189b44dd414.js.map"
+    ],
+    "path---cn-features-reporting": [
+      "path---cn-features-reporting-a1ad40e75bb5f74bf223.js",
+      "path---cn-features-reporting-a1ad40e75bb5f74bf223.js.map"
+    ],
+    "path---features-investors": [
+      "path---features-investors-4419377b2abaf8064abf.js",
+      "path---features-investors-4419377b2abaf8064abf.js.map"
+    ],
+    "path---cn-all-features": [
+      "path---cn-all-features-c1283a622c6b57bbf8c9.js",
+      "path---cn-all-features-c1283a622c6b57bbf8c9.js.map"
+    ],
+    "path---cn-features-investors": [
+      "path---cn-features-investors-d4aa6b85986ff8c074ec.js",
+      "path---cn-features-investors-d4aa6b85986ff8c074ec.js.map"
+    ],
+    "path---cn-features": [
+      "path---cn-features-aed75c271752936df60f.js",
+      "path---cn-features-aed75c271752936df60f.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-e56dc589c189b44dd414.js",
+      "path---offline-plugin-app-shell-fallback-e56dc589c189b44dd414.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-72422df7f4397176fe23.js",
+      "component---src-pages-index-jsx-72422df7f4397176fe23.js.map"
+    ],
+    "path---features-consistency": [
+      "path---features-consistency-92cbf855b58f5dcb3cf3.js",
+      "path---features-consistency-92cbf855b58f5dcb3cf3.js.map"
+    ],
+    "path---cn-offline-plugin-app-shell-fallback": [
+      "path---cn-offline-plugin-app-shell-fallback-c1283a622c6b57bbf8c9.js",
+      "path---cn-offline-plugin-app-shell-fallback-c1283a622c6b57bbf8c9.js.map"
+    ],
+    "app": [
+      "app-5837834accdc7fae35b1.js",
+      "app-5837834accdc7fae35b1.js.map"
+    ],
+    "path---404": [
+      "path---404-e56dc589c189b44dd414.js",
+      "path---404-e56dc589c189b44dd414.js.map"
+    ],
+    "path---features-reporting": [
+      "path---features-reporting-17a86fe74dc386981479.js",
+      "path---features-reporting-17a86fe74dc386981479.js.map"
+    ],
+    "path---cn-features-round-modeling": [
+      "path---cn-features-round-modeling-67b81208fe1f8eaa20d7.js",
+      "path---cn-features-round-modeling-67b81208fe1f8eaa20d7.js.map"
+    ],
+    "path---cn-contact": [
+      "path---cn-contact-c1283a622c6b57bbf8c9.js",
+      "path---cn-contact-c1283a622c6b57bbf8c9.js.map"
+    ]
+  }
+}
